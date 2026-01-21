@@ -103,7 +103,4 @@ The project strictly follows the **MVC (Model-View-Controller)** pattern:
 * [ ] Sound Effects for card flips and matches.
 * [ ] Save/Load functionality for games in progress.
 
----
-**Course:** CS 202 - Object Oriented Programming
-**Student:** [Your Name]
-**Department:** Computer Engineering
+
